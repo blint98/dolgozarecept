@@ -1,0 +1,81 @@
+[{
+        "nev": "Somlói galuska",
+        "elkeszitesi_ido": 30,
+        "eleresi_ut": "kepek/somloi.jpg",
+        "ar": "500",
+        "kategoria": "desszert"
+            
+    },
+    {
+        "nev": "Zsíros kenyér",
+        "elkeszitesi_ido": 5,
+        "eleresi_ut": "kepek/zsiroskenyer.jpg",
+        "ar": "200",
+        "kategoria": "snack"
+    },
+     {
+        "nev": "Szezánmagos csirke",
+        "elkeszitesi_ido": 30,
+        "eleresi_ut": "kepek/szezanmagos.jpg",
+        "ar": "3000",
+        "kategoria": "ebéd"
+    },
+     {
+        "nev": "kinder ",
+        "elkeszitesi_ido": 15,
+        "eleresi_ut": "kepek/KinderSchokolade.jpg",
+        "ar": "500",
+        "kategoria": "snack"
+    },
+    {
+        "nev": "Csirke",
+        "elkeszitesi_ido": 5,
+        "eleresi_ut": "kepek/csirke.jpg",
+        "ar": "300",
+        "kategoria": "desszert"
+    },
+    {
+        "nev": "torta",
+        "elkeszitesi_ido": 2,
+        "eleresi_ut": "kepek/fekete-barsony-torta.png",
+        "ar": "350",
+        "kategoria": "desszert"
+    },
+    {
+        "nev": "chips",
+        "elkeszitesi_ido": 30,
+        "eleresi_ut": "kepek/chips.jpg",
+        "ar": "1900",
+        "kategoria": "snack"
+    },
+    {
+        "nev": "Húsleves",
+        "elkeszitesi_ido": 45,
+        "eleresi_ut": "kepek/husleves.jpg",
+        "ar": "750",
+        "kategoria": "előétel"
+    },
+     {
+        "nev": "lasagne",
+        "elkeszitesi_ido": 45,
+        "eleresi_ut": "kepek/lasagne.jpg",
+        "ar": "500",
+        "kategoria": "efőétel"
+    },
+     {
+        "nev": "nachos",
+        "elkeszitesi_ido": 120,
+        "eleresi_ut": "kepek/nachos.jpg",
+        "ar": "2300",
+        "kategoria": "snack"
+    },
+   {
+        "nev": "Hortobágyi palacsinta",
+        "elkeszitesi_ido": 30,
+        "eleresi_ut": "kepek/hortobagyi.jpg",
+        "ar": "900",
+        "kategoria": "desszert"
+    }
+]
+
+
